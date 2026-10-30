@@ -1,0 +1,5 @@
+build/
+*.o
+*.d
+centre_tri
+journal.log

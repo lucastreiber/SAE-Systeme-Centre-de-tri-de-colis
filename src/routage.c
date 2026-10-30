@@ -1,0 +1,9 @@
+#include <stdlib.h>
+
+#include "commun.h"
+
+void *thread_routage(void *arg){
+    (void)arg;
+
+    return NULL;
+}
